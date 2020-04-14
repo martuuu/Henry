@@ -1,0 +1,49 @@
+body {
+    flex: content;
+    flex-direction: column;
+    margin-top: 100px;
+    margin-left: 380px;
+    color: rgb(83, 82, 82);
+    background-image: url(back.png);
+
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    right: 50px;
+    float: right;
+    border-radius: 15px;
+    
+}
+
+.box {
+    height: 930px;
+    width: 800px;
+    background-color: aliceblue;
+    padding: 50px;
+    border-radius: 40px;
+    margin: 20px;
+    
+}
+
+ul {
+    margin-top: 5px;
+}
+
+h4 {
+    margin: 5px;
+    text-decoration: underline;
+}
+
+.description {
+    margin-top: 0px;
+    font-size: 15px;
+}
+h1 {
+    margin-bottom: 3px;
+}
+
+p {
+    margin-top: 0px;
+}
