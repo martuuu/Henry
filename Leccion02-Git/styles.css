@@ -1,0 +1,39 @@
+body {
+    background: url("https://image.freepik.com/free-vector/abstract-blue-geometric-shapes-background_1035-17545.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: auto;
+}
+
+h1 {
+    color: darkblue;
+}
+
+img {
+    width: 400px;
+}
+
+#thirdDiv {
+    height: 600px;
+    width: 400px;
+    background-color: cornflowerblue;
+    padding: 50px;
+    border: 4px dotted white;
+
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+    
+}
+
+div {
+    margin: auto;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
